@@ -1,2 +1,3 @@
 # hello-world
-cubos academy homework
+Exercício setup de ferramentas da cubos academy
+
